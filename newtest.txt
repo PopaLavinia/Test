@@ -1,1 +1,1 @@
-text care poate contine cod
+fisier care poate contine cod
